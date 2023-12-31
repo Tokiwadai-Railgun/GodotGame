@@ -1,0 +1,8 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1704027884
+Arbre (1).glb::PackedScene::4702988746866278088::1704027884::1704027885::1::::<><>::
+LevelOne.tscn::PackedScene::1830223437419106682::1704027031::0::1::::<><>::uid://cxxuxlimuiscf::::res://Arbre (1).glb<>res://CharacterBody3D.gd
+block.tscn::PackedScene::1384237013771202083::1704027031::0::1::::<><>::
+char.tscn::PackedScene::2083700868105137090::1704027031::0::1::::<><>::
+bumper.tscn::PackedScene::241484623121450415::1704027031::0::1::::<><>::
+CharacterBody3D.gd::GDScript::-1::1704026988::0::1::::<>CharacterBody3D<>::
